@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Okmd9ALQImDgKH4HrhwOlCl6YVjUNUVX2DsDX9iWvnvcKIhfgGggucalZvGZIVXVOFb0HkeHx+k0vg3xFBKhEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gz3lo7\\Source\\Repos\\kincsi1\\itarchitectura\\valami2\\valami2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gz3lo7\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
